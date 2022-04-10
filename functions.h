@@ -1,4 +1,5 @@
-#ifndef FUNCTIONS_H
+#ifndef FUNCTIONS_H		
+//se o arquivo ainda não foi inclíudo
 #define FUNCTIONS_H
 #include <Arduino.h>
 #include <LiquidCrystal.h>
